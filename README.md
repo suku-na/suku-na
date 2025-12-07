@@ -12,7 +12,7 @@
 <p align="center">
   🔭 Currently working on an <b>Internship Program</b><br>
   🌱 Learning <b>Data Science</b> to build a strong analytical foundation.<br>
-  👨‍💻 Explore all my projects here: <a href="https://sk01867.wixsite.com/sumit-kumar" target="_blank"><b>Portfolio Website</b></a><br>
+  👨‍💻 Explore all my projects here: <a href="https://sumitkumar.lovable.app/" target="_blank"><b>Portfolio Website</b></a><br>
   📝 Read my blogs on <a href="https://medium.com/@sk01867" target="_blank"><b>Medium</b></a><br>
   📫 Contact me: <b>sk01867@gmail.com</b><br>
   ⚡ Fun Fact: <i>I love bike riding!</i>
