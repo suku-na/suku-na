@@ -40,7 +40,7 @@
 - 📊 Love transforming raw data into meaningful insights  
 - 🧠 Exploring **EDA, Machine Learning, and Dashboarding**  
 - 📝 Publishing articles on **[Medium](https://medium.com/@sk01867)**  
-- 🌐 Portfolio: **[sk01867.wixsite.com/sumit-kumar](https://sk01867.wixsite.com/sumit-kumar)**  
+- 🌐 Portfolio: **[sk01867.wixsite.com/sumit-kumar]((https://sumitkumar.lovable.app/))**  
 - 📫 Reach me: **sk01867@gmail.com**
 
 ---
